@@ -10,7 +10,7 @@ class Shoe
   end
   
   def cobble
-    "The shoe has been repaired"
+    puts "Your shoe is as good as new!"
     @condition= "new"
   end
   
